@@ -17,7 +17,7 @@ import org.apache.pdfbox.pdmodel.PDPage;
 public class PDFtoJPG {
 	public static void main(String[] args) {
 
-		selectPdf();
+	//	selectPdf();
 
 	}
 	public static void selectPdf() {
